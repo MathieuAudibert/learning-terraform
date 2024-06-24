@@ -1,4 +1,5 @@
 # learning-terraform 
 Learning tf in this repo
-![image](https://github.com/MathieuAudibert/learning-terraform/assets/105722701/8cb3e306-cfad-43de-b49b-ba6ced9af892)
+![image](https://github.com/MathieuAudibert/learning-terraform/assets/105722701/c13d254c-095b-41b2-b639-05840b1c1447)
+
 
